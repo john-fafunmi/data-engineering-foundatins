@@ -2,11 +2,6 @@
 
 A structured repository documenting my hands-on progression through SQL, relational databases, and Python-based ETL workflows.
 
-## Repository Structure
-
-- **`sql-practice/`** — Solved queries, filtering patterns, aggregations, and multi-table joins completed through interactive SQL exercises (SQLBolt).
-- **`python-basics/`** — Early data manipulation practice scripts and exercises.
-
 ## Current Progress & Roadmap
 
 - [x] **Python Fundamentals:** Core data structures, functions, and file handling.
